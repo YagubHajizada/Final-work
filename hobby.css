@@ -1,0 +1,13 @@
+body {
+    background: url(damiano-lingauri-bUM4weg0RSI-unsplash.jpg);
+    color: red;
+    background-size:cover;
+}
+.vf {
+    width: 300px;
+    height: 100px;
+    background: none;
+    margin-top: 50px;
+    margin-left: 10px;
+    color: white;
+}
