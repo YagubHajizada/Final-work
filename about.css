@@ -1,0 +1,53 @@
+body {
+    background: url(mike-tinnion-3ym6i13Y9LU-unsplash.jpg);
+    color: red;
+    background-size:cover;
+}
+.vf {
+    width: 350px;
+    height: 100px;
+    background: none;
+    margin-top: -70px;
+    margin-left: 200px;
+    color: black;
+}
+.vfs {
+    width: 350px;
+    height: 150px;
+    background: none;
+    margin-top: 150px;
+    margin-left: 300px;
+    color: black;
+}
+.vfa {
+    width: 350px;
+    height: 150px;
+    background: none;
+    margin-top: 200px;
+    margin-left: 170px;
+    color: black;
+}
+.vfq {
+    width: 350px;
+    height: 150px;
+    background: none;
+    margin-top: -550px;
+    margin-left: 750px;
+    color: black;
+}
+.vfw {
+    width: 350px;
+    height: 150px;
+    background: none;
+    margin-top: -70px;
+    margin-left: 650px;
+    color: black;
+}
+.vfi {
+    width: 350px;
+    height: 150px;
+    background: none;
+    margin-top: 125px;
+    margin-left: 950px;
+    color: black;
+}
