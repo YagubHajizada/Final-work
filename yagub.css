@@ -1,0 +1,68 @@
+body {
+    background: url(giorgio-trovato-v_bri4iVuiM-unsplash.jpg);
+    color: red;
+    background-size:cover;
+}
+.box {
+    text-decoration: none;
+    padding: 0.5em;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    border: 1px solid #000;
+    margin-top: 20px;
+    margin-right: 1100px;
+}
+.box1 {
+    text-decoration: none;
+    padding: 0.5em;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    border: 1px solid #000;
+    margin-top: 20px;
+    margin-right: 1000px;
+}
+.box2 {
+    text-decoration: none;
+    padding: 0.5em;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    border: 1px solid #000;
+    margin-top: 20px;
+    margin-right: 900px;
+}
+.box3 {
+    text-decoration: none;
+    padding: 0.5em;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    border: 1px solid #000;
+    margin-top: 20px;
+    margin-right: 800px;
+}
+    .vf {
+        width: 500px;
+        height: 100px;
+        background: none;
+        margin-top: 150px;
+        margin-left: 100px;
+        color: black;
+    }
+    .fb-icon {
+        width: 25px;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    .email {
+        width: 30px;
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .email1 {
+        width: 25px;
+        margin-top: 5px;
+        margin-left: 10px;
+    }
